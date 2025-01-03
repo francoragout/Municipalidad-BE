@@ -1,6 +1,6 @@
 # Municipalidad Prueba Técnica
 
-## Repositorio Front-End
+## Repositorio Back-End
 
 ### Esta aplicacion te ayudará a gestionar las tareas que tengas por delante, filtrandolas por estado, titulo, prioridad y etiqueta.
 
